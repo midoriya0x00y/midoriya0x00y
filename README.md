@@ -1,4 +1,4 @@
-<img src="https://images-ext-2.discordapp.net/external/ozRAblYA-KGf7j2CaLAdAfS9FwZuVMhxeC4k4plC_GM/https/media.tenor.com/2SOfGElh_GkAAAPo/neco-arc-melty-blood-type-lumina.mp4" width="100" height="150" align='left'>
+<img src="https://discord.com/channels/1068681177961070602/1068681178401480775/1157474109756817430" width="100" height="150" align='left'>
 
 <pre>
 888b     d888  d888   8888888b.   .d8888b.  8888888b.   d888  Y88b   d88P  d8888  
