@@ -1,4 +1,4 @@
-<img src="https://tenor.com/bXskz.gif" width="100" height="150" align='left'>
+<img src="https://discord.com/channels/1068681177961070602/1068681178401480775/1157468713914736651" width="100" height="150" align='left'>
 <pre>
    _______         __ __                      ________              __     __ 
   |   |   |.-----.|  |  |.-----.--.--.--.    |  |  |  |.-----.----.|  |.--|  |
