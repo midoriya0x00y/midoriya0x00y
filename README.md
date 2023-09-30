@@ -11,9 +11,9 @@
  
 </div>
 <div align="center">
- <img src="">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/midoriya.exe.png">
  
- [![Midoriya$%](https://www.hackthebox.eu/badge/image/1627568)](https://www.hackthebox.eu/home/users/profile/1643823)
+ [![Midoriya$%]
 </div>
 
 - <code>🤓</code> I'm **not** a dev
