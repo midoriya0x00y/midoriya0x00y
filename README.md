@@ -1,5 +1,5 @@
-<img src="" width="100" height="150" align='left'>
-<div class="tenor-gif-embed" data-postid="26524245" data-share-method="host" data-aspect-ratio="1.05263" data-width="100% width="100" height="150" align='left'"><a href="https://tenor.com/view/necoarc-melty-blood-melty-blood-type-lumina-type-lumina-tsukihime-gif-26524245">Necoarc Melty Blood Sticker</a>from <a href="https://tenor.com/search/necoarc-stickers">Necoarc Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://images-ext-2.discordapp.net/external/ozRAblYA-KGf7j2CaLAdAfS9FwZuVMhxeC4k4plC_GM/https/media.tenor.com/2SOfGElh_GkAAAPo/neco-arc-melty-blood-type-lumina.mp4" width="100" height="150" align='left'>
+
 <pre>
 888b     d888  d888   8888888b.   .d8888b.  8888888b.   d888  Y88b   d88P  d8888  
 8888b   d8888 d8888   888  "Y88b d88P  Y88b 888   Y88b d8888   Y88b d88P  d8P888  
