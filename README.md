@@ -1,4 +1,4 @@
-<img src="https://github.com/midoriya0x00y/midoriya0x00y/blob/main/Untitled11.png" align='left'>
+<img src="https://github.com/midoriya0x00y/midoriya0x00y/blob/main/Untitled11.png" width="200" height="200" align='left'>
 
 <pre>
 888b     d888  d888   8888888b.   .d8888b.  8888888b.   d888  Y88b   d88P  d8888  
