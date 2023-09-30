@@ -1,4 +1,4 @@
-<img src="https://discord.com/channels/1068681177961070602/1068681178401480775/1157474109756817430" width="100" height="150" align='left'>
+<img src="https://i.redd.it/sxetva0x2s081.png" width="100" height="150" align='left'>
 
 <pre>
 888b     d888  d888   8888888b.   .d8888b.  8888888b.   d888  Y88b   d88P  d8888  
