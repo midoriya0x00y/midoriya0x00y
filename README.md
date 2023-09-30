@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1129791105790115861/1157389651431149671/9wd3qvL.gif" width="100" height="150" align='left'>
+<img src="https://tenor.com/view/necoarc-melty-blood-melty-blood-type-lumina-type-lumina-tsukihime-gif-26524245" width="100" height="150" align='left'>
 <pre>
    _______         __ __                      ________              __     __ 
   |   |   |.-----.|  |  |.-----.--.--.--.    |  |  |  |.-----.----.|  |.--|  |
