@@ -19,15 +19,13 @@
 <div align="center">
  <img src="https://tryhackme-badges.s3.amazonaws.com/midoriya.exe.png">
  
- [![Midoriya$%]
 </div>
 
 - <code>🤓</code> I'm **not** a dev
 - <code>🧠</code> studying malware analysis and Pentest and Reverse Engineering
 - <code>🥇</code> Study on  Tryhackme And Starting Play HackTheBox
-- My Discord: kevoskyri/mednick0x7b
 
 
 <h3>Skills</h3>
 
-![Skills](https://skillicons.dev/icons?i=bash,python,linux,html)
+![Skills](https://skillicons.dev/icons?i=bash,python,linux,html,c,c++)
